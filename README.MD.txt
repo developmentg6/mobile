@@ -1,1 +1,0 @@
-Sistema Mobile Nice Face.
