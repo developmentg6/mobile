@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ed7fa3</color>
+    <color name="colorPrimaryDark">#fad9dc</color>
+    <color name="colorAccent">#eb2d6c</color>
+
+    <color name="black_overlay">#66000000</color>
+
+    <!--    minha palheta de cores -->
+    <color name="color_botoes1">#fad9dc</color>
+    <color name="color_botoes2">#eb2d6c</color>
+    <color name="color_botoes3">#ed7fa3</color>
+    <color name="color_botoes4">#eb258c</color>
+    <color name="color_botoes5">#f0539c</color>
+    <color name="color_botoes6">#da527a</color>
+    <color name="color_botoes7">#d23f69</color>
+    <color name="color_botoes8">#f292c4</color>
+    <color name="color_botoes9">#c24e6d</color>
+    <color name="color_botoes10">#dc9ca4</color>
+
+</resources>
